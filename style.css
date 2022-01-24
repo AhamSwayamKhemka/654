@@ -1,0 +1,44 @@
+label{
+	color:white;
+	font-size:x-large;
+  /*align-content: center;*/
+	text-align: center;
+}
+#home{
+	height: 100%;
+	width: 100%;
+	background-image:url(../spacetechinfo/images/ZanyLiquidDutchshepherddog-max-1mb.gif);
+	background-size: cover;
+	text-align: center;
+}
+p{
+	text-decoration: none;
+	color: #fff;
+}
+#Information{
+	height: 700%;
+	width: 100%;
+	background-image: url(../spacetechinfo/images/galaxy-space.gif);
+	background-size: cover;
+}
+nav{
+	position: fixed;
+	width: 100%;
+	opacity: 100%;
+}
+#divc{
+	padding-top: 50px;
+}
+.lbl2{
+	/*align-content: center;*/
+	text-align: center;
+}
+hr{
+	width: 100%;
+	opacity: 0%;
+}
+.Astrounout{
+	height: 100%;
+	width: 100%;
+	background-image:url(../spacetechinfo/images/background-image-galaxy.gif);
+}
